@@ -1,0 +1,15 @@
+Traccia 3 :
+1.	Classe Animale:
+o	Attributi: nome (String), età (int), metodo di accesso.
+o	Metodo emettiSuono() da implementare nelle sottoclassi.
+o	Metodo toString() per rappresentare le informazioni dell'animale.
+
+2.	Sottoclassi Leone e Elefante:
+o	Estendono la classe Animale.
+o	Implementano il metodo emettiSuono() specifico per il tipo di animale.
+
+3.	Classe GestoreAnimali:
+o	Lista di oggetti Animale.
+o	Metodi per aggiungere animali, visualizzare l'elenco e far emettere suoni a tutti gli animali.
+
+4.	Creare un main dove testare tutte le funzionalità

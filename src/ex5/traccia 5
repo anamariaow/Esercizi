@@ -1,0 +1,16 @@
+Traccia 5:
+1.	Classe Ordine:
+o	Attributi: numeroOrdine (int), dataCreazione (Date o String), prodottiOrdinati (ArrayList di oggetti Prodotto), statoElaborazione (String), metodi di accesso.
+o	Costruttore che accetta numeroOrdine, dataCreazione, prodottiOrdinati e statoElaborazione.
+o	Metodo toString() per rappresentare le informazioni dell'ordine.
+
+2.	Classe Prodotto:
+o	Attributi: nome (String), quantità (int), prezzo (double), metodi di accesso.
+o	Costruttore che accetta nome, quantità e prezzo.
+o	Metodo toString() per rappresentare le informazioni del prodotto.
+
+3.	Classe SistemaOrdini:
+o	Lista di oggetti Ordine.
+o	Metodi per aggiungere nuovi ordini, rimuovere ordini, visualizzare l'elenco completo degli ordini e aggiornare lo stato di elaborazione di un ordine.
+
+4.	Creare un main dove testare tutte le funzionalità

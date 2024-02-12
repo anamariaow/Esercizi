@@ -1,0 +1,15 @@
+Traccia 1:
+1.	Classe FormaGeometrica:
+o	Attributi: colore (String), metodi di accesso.
+o	Metodo calcolaArea() da implementare nelle sottoclassi.
+o	Metodo toString() per rappresentare le informazioni della forma.
+
+2.	Sottoclassi Cerchio e Quadrato:
+o	Estendono la classe FormaGeometrica.
+o	Implementano il metodo calcolaArea() specifico per la forma geometrica.
+
+3.	Classe GestoreForme:
+o	Lista di oggetti FormaGeometrica.
+o	Metodi per aggiungere forme, visualizzare l'elenco e calcolare l'area totale.
+
+4.	Creare un main dove testare tutte le funzionalità

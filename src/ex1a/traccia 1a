@@ -1,0 +1,11 @@
+Traccia 1a:
+1.	Classe Film:
+o	Attributi: titolo (String), regista (String), annoUscita (int), valutazione (double), metodi di accesso.
+o	Costruttore che accetta titolo, regista, annoUscita e valutazione.
+o	Metodo toString() per rappresentare le informazioni del film.
+
+2.	Classe CatalogoFilm:
+o	Lista di oggetti Film.
+o	Metodi per aggiungere nuovi film, rimuovere film, visualizzare l'elenco completo dei film e cercare film per regista o anno di uscita.
+
+3.	Creare un main dove testare tutte le funzionalità

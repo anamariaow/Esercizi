@@ -1,0 +1,15 @@
+Traccia 2:
+1.	Classe Dipendente:
+o	Attributi: nome (String), salario (double), metodi di accesso.
+o	Metodo calcolaSalarioAnnuo() da implementare nelle sottoclassi.
+o	Metodo toString() per rappresentare le informazioni del dipendente.
+
+2.	Sottoclassi Manager e Sviluppatore:
+o	Estendono la classe Dipendente.
+o	Implementano il metodo calcolaSalarioAnnuo() specifico per il tipo di dipendente.
+
+3.	Classe GestoreDipendenti:
+o	Lista di oggetti Dipendente.
+o	Metodi per aggiungere dipendenti, visualizzare l'elenco e calcolare la somma totale dei salari.
+
+4.	Creare un main dove testare tutte le funzionalità

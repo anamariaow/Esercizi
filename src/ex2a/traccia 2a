@@ -1,0 +1,11 @@
+Traccia 2a:
+1.	Classe Contatto:
+o	Attributi: nome (String), cognome (String), numeroTelefono (String), email (String), metodi di accesso.
+o	Costruttore che accetta nome, cognome, numeroTelefono e email.
+o	Metodo toString() per rappresentare le informazioni del contatto.
+
+2.	Classe RubricaTelefonica:
+o	Lista di oggetti Contatto.
+o	Metodi per aggiungere nuovi contatti, rimuovere contatti, visualizzare l'elenco completo dei contatti e cercare contatti per nome o numero di telefono
+
+3.	Creare un main dove testare tutte le funzionalità

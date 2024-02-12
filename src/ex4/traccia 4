@@ -1,0 +1,11 @@
+Traccia 4:
+1.	Classe Libro:
+o	Attributi: titolo (String), autore (String), genere (String), disponibilità (boolean), metodi di accesso.
+o	Costruttore che accetta titolo, autore, genere e impostazione di disponibilità.
+o	Metodo toString() per rappresentare le informazioni del libro.
+
+2.	Classe Biblioteca:
+o	Lista di oggetti Libro.
+o	Metodi per aggiungere libri, rimuovere libri, visualizzare l'elenco e cercare libri per autore o genere.
+
+3.	Creare un main dove testare tutte le funzionalità
